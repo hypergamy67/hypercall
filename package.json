@@ -1,0 +1,12 @@
+{
+  "name": "hypercall",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A self-hosted Hypercall chat app with shared accounts and peer-to-peer calls.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.22.1"
+  }
+}
